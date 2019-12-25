@@ -4,7 +4,7 @@
 原著：R.Kent Dybvig
 
 本项目并非由我翻译，所有翻译内容均来源于网络。
-主要参考两个项目：
+来源：
 
 [uternet/tspl-cn](https://github.com/uternet/tspl-cn)
 
@@ -27,3 +27,5 @@
 | Chapter 10. Libraries and Top-Level Programs  |||||
 | Chapter 11. Exceptions and Conditions         |||||
 | Chapter 12. Extended Examples                 |||||
+
+[目录](SUMMARY.md)
